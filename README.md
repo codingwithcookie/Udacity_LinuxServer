@@ -3,7 +3,7 @@ Setup Linux Server and Deploy code
 
 Server: http://54.172.51.47/
 
-SSH: 172.26.13.222
+SSH: 54.172.51.47 port 2200
 
 Linux Server Directions
 
